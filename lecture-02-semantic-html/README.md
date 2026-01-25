@@ -39,8 +39,3 @@
 ## 5. What I still need to improve
 - Writing more detailed alt text depending on the image purpose.
 - Creating clearer project descriptions and adding more real project links.
-
-## 6. Notes about AI usage (if any)
-- Tool used: ChatGPT
-- What I accepted as-is: The basic semantic structure and README template
-- What I modified manually: Name, GitHub link, project text, filenames, and links
