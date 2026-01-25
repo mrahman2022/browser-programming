@@ -37,5 +37,5 @@
 - Proper headings and landmarks make navigation easier even without any styling.
 
 ## 5. What I still need to improve
-- Writing more detailed alt text depending on the image purpose.
+- Writing more detailed alt text depending on the image's purpose.
 - Creating clearer project descriptions and adding more real project links.
