@@ -1,23 +1,15 @@
-# Lecture 03 - CSS Basics
+# Portfolio Page Assignment
 
-## What I implemented this lecture
-- Linked an external CSS file to my HTML portfolio page
-- Styled the header, navigation, main content, and footer
-- Added a round profile image and controlled its size using CSS
-- Improved typography, spacing, and readability of the page
-- Made sure images do not overflow the page width
+## Features added
+- Skills section with 6 skill cards
+- Projects section with 2 project cards
+- Theme toggle button with light/dark mode
+- Theme preference saved using localStorage
+- Last updated date generated with JavaScript
+- External Data Demo section using fetch, async/await, try/catch, and response.ok
 
-## CSS selectors I used (at least 5)
-- `body`
-- `header`
-- `nav ul`
-- `nav a`
-- `.profile-photo`
-- `main`
-- `footer`
-
-## One thing I struggled with
-- I had some difficulty linking the CSS file correctly and making sure the profile image path worked properly.
-
-## One improvement I want to do next
-- I want to improve the layout further by making the portfolio sections look cleaner and more professional on different screen sizes.
+## How to test
+- Click **Toggle Theme** to switch between light and dark mode
+- Refresh the page to check that the saved theme is applied automatically
+- Check the footer for the **Last updated** date
+- Click **Load Data** in the External Data Demo section to fetch and display API data
