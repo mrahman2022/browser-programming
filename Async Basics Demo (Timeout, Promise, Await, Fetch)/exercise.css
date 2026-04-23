@@ -1,0 +1,25 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    line-height: 1.5;
+}
+
+button {
+    padding: 10px 14px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    cursor: pointer;
+}
+
+#status {
+    font-weight: bold;
+    margin-top: 10px;
+}
+
+#output {
+    background: #f4f4f4;
+    padding: 15px;
+    min-height: 120px;
+    border: 1px solid #ccc;
+    white-space: pre-wrap;
+}
