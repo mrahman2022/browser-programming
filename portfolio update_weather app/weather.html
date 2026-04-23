@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Weather App</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+    <header>
+        <h1>Weather App</h1>
+        <p>Check current weather data from a public API</p>
+        <p><a href="index.html">Back to Portfolio</a></p>
+    </header>
+
+    <main>
+        <section class="card">
+            <h2>Select a City</h2>
+            <div class="weather-buttons">
+                <button onclick="loadWeather('Kuopio', 62.8924, 27.6770)">Kuopio</button>
+                <button onclick="loadWeather('Helsinki', 60.1699, 24.9384)">Helsinki</button>
+                <button onclick="loadWeather('Rovaniemi', 66.5039, 25.7294)">Rovaniemi</button>
+            </div>
+        </section>
+
+        <section class="card">
+            <h2>Current Weather</h2>
+            <div id="weather-output">
+                <p>Click a city button to load weather data.</p>
+            </div>
+        </section>
+    </main>
+
+    <script src="weather.js"></script>
+</body>
+</html>
