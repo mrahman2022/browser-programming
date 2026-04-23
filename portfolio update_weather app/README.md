@@ -1,23 +1,27 @@
-# Lecture 03 - CSS Basics
+# Portfolio Assignment - Weather App
 
-## What I implemented this lecture
-- Linked an external CSS file to my HTML portfolio page
-- Styled the header, navigation, main content, and footer
-- Added a round profile image and controlled its size using CSS
-- Improved typography, spacing, and readability of the page
-- Made sure images do not overflow the page width
+## What I added
+- A new page called `weather.html`
+- A weather app linked from the main portfolio page
+- Weather data loaded from a public API using JavaScript
+- City buttons for Kuopio, Helsinki, and Rovaniemi
+- Weather details shown dynamically on the page
 
-## CSS selectors I used (at least 5)
-- `body`
-- `header`
-- `nav ul`
-- `nav a`
-- `.profile-photo`
-- `main`
-- `footer`
+## Features
+- Separate weather page
+- Linked from the main portfolio
+- Uses `fetch()` to get real weather data
+- Displays city name, temperature, and wind speed
+- Error handling if the API request fails
 
-## One thing I struggled with
-- I had some difficulty linking the CSS file correctly and making sure the profile image path worked properly.
+## How to test
+- Open the main portfolio page
+- Click the **Weather App** link
+- On `weather.html`, click any city button
+- Check that the weather data appears on the page
 
-## One improvement I want to do next
-- I want to improve the layout further by making the portfolio sections look cleaner and more professional on different screen sizes.
+## Files used
+- `index.html`
+- `weather.html`
+- `weather.js`
+- `css/style.css`
