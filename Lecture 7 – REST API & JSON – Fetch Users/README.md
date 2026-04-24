@@ -23,3 +23,6 @@ We use `response.json()` to convert the JSON response into JavaScript data. This
 
 ### 3. Why must we check `response.ok`?
 We check `response.ok` to make sure the request was successful. Without it, the code might continue even when the server returns an error such as 404.
+
+<img width="1897" height="953" alt="image" src="https://github.com/user-attachments/assets/09c3a373-a5e2-4ba2-b34d-c82b3c0a08d8" />
+
