@@ -1,0 +1,22 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    line-height: 1.5;
+}
+
+button {
+    padding: 10px 14px;
+    margin-bottom: 15px;
+    cursor: pointer;
+}
+
+#userList {
+    margin-bottom: 20px;
+}
+
+#output {
+    background: #f4f4f4;
+    padding: 15px;
+    border: 1px solid #ccc;
+    white-space: pre-wrap;
+}
