@@ -30,3 +30,12 @@
 
 ## Reflection
 We need a backend because the browser mainly handles the user interface, while the backend provides data and server-side logic. The backend can create APIs, process requests, and send structured data to the frontend.
+
+<img width="1912" height="748" alt="image" src="https://github.com/user-attachments/assets/71ae349a-7ff3-4272-a3ab-fcbcb44d4399" />
+
+<img width="1915" height="817" alt="image" src="https://github.com/user-attachments/assets/49a4466f-124c-4da9-adc4-d5260b20b2ae" />
+
+<img width="1912" height="805" alt="image" src="https://github.com/user-attachments/assets/901a7d14-74c3-444e-97c0-bb91735f8fbf" />
+
+
+
