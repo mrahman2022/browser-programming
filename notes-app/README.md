@@ -31,15 +31,18 @@ The app uses a `notes` table in Supabase with:
 - `created_at`
 
 ## Local Run
-### Backend
+## Backend
 ```bash
 cd backend
 npm install
 node server.js
 
+
 <img width="1915" height="742" alt="image" src="https://github.com/user-attachments/assets/57445a6d-ec74-49bb-949e-db1b775cce77" />
 
+
 <img width="1916" height="778" alt="image" src="https://github.com/user-attachments/assets/4e98e413-f3af-4fe2-a5fa-aa7ce7f87487" />
+
 
 <img width="1892" height="996" alt="image" src="https://github.com/user-attachments/assets/66f6020a-1b55-420c-96db-b3d1f7639eb1" />
 
